@@ -8,6 +8,7 @@ Aplicação que lista todos os seus cupons e banners da sua conta! Acessa de for
 - Scrapping em Python
 - Selenium
 - Integração com a API do Telegram
+- Integração com IMAP
 
 ## Instalação
 Para rodar o projeto faça essas configurações:
