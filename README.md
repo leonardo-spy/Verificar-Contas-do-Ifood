@@ -53,7 +53,7 @@ my_token = '123123123:XXXXXXXXXxxxxxxxxxxxxxx'
 chat_id = "-9999999999999"
 ```
 
-## Endpoints
+## Resultados & O que é esperado
 Lista de Banners e Cupons gerados a partir dos resultados das contas do Ifood, o resultado da consulta será imprimido no Chat integrado do Telegram!<br>
 <img src="https://user-images.githubusercontent.com/19514153/164307691-db76e73a-90de-4b86-ae28-a5809f35967f.jpeg" width="300" height="600">
 <br>
